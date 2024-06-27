@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "D:/ARDUINO/ESP32/esp8266-weather-station-color-master"
+		},
+		{
+			"name": "ESP32_WEATHER_STATION_COLOR",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
